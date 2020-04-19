@@ -1,0 +1,12 @@
+## ENPM 809Y - Introduction to Robot Programming ##
+## RWA - 2
+## Path planning for a robot from the start coordinate to the Goal coordinate
+
+Note: Enter the coordinates according to the Cartesian Coordinate system.
+      Do not enter coordinates that are outside the maze nor where an obstacle is present.
+
+
+Step 1 - Enter the x,y coordinate for the Start point of the Robot in the map
+Step 2 - Enter the x,y coordinate for the Goal point of the Robot in the map. 
+
+
